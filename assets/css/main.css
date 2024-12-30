@@ -718,7 +718,7 @@ section,
 .hero {
   position: relative;
   padding-top: 160px;
-  background-image: url('../img/Bg.png');
+  background-image: url('../img/bg.png');
   background-repeat: no-repeat;
   background-size: cover;
   /* background: linear-gradient(135deg, color-mix(in srgb, var(--accent-color), transparent 95%) 50%, color-mix(in srgb, var(--accent-color), transparent 98%) 25%, transparent 50%); */
